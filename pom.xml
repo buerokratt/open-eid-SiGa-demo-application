@@ -102,7 +102,7 @@
         <dependency>
             <groupId>org.digidoc4j</groupId>
             <artifactId>digidoc4j</artifactId>
-            <version>5.2.0</version>
+            <version>6.1.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.bouncycastle</groupId>
